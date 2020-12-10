@@ -1,2 +1,3 @@
-# EdJWang.github.io
+# Jishen Edward Wang
+Data Science Portfolio
 ## About
