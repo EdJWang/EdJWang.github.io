@@ -1,6 +1,3 @@
 theme: jekyll-theme-minimal
-author:
-  name             : "Edward Wang"
-  bio              : "Data Science Portfolio"
-  location         : "Portland, OR"
-  email            : "edwin.wan@yahoo.com"
+title: Jishen Edward Wang 
+description: I am a graduate student at Texas Tech University and an aspiring data scientist.
