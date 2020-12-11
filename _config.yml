@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+author:
+  name             : "Edward Wang"
+  bio              : "Data Science Portfolio"
+  location         : "Portland, OR"
+  email            : "edwin.wan@yahoo.com"
