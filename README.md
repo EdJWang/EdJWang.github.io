@@ -5,4 +5,4 @@ Data Science Portfolio
 
 ## Python Projects
 ### Predicting NBA Player Salaries from Performance Metrics
-[nbviewer page](https://nbviewer.jupyter.org/github/EdJWang/EdJWang.github.io/blob/Web_Base/Projects/NBA.ipynb)
+View kernel: [nbviewer](https://nbviewer.jupyter.org/github/EdJWang/EdJWang.github.io/blob/Web_Base/Projects/NBA.ipynb)
