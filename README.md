@@ -1,4 +1,4 @@
-# Jishen Edward Wang
+# Data Science Portfolio
 
 <br>
 
