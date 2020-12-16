@@ -1,5 +1,4 @@
 # Data Science Portfolio
-<br>
 
 ## Python Projects
 ### Predicting NBA Player Salaries using Performance Metrics
