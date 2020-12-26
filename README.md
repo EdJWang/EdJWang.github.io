@@ -10,4 +10,4 @@ Lichess is a digital chess platform where players can compete with other chess p
 ## R Projects
 ### Comparing Clustering Algorthims Using Simulated Data and the Iris Dataset
 View kernel: [nbviewer](https://nbviewer.jupyter.org/github/EdJWang/EdJWang.github.io/blob/Web_Base/Projects/Cluster_Comparison.ipynb) <br>
-In this analysis, I experiment with several popular clustering algorithms and compare them against each other across several simulated 2-dimensional data patterns. Finally, I'll compare these clustering algorithms in a real dataset with pre-defined classifications through the Iris Dataset. All simulations and clustering algorithms are performed using the R programming languages and various R packages.
+In this analysis, I experiment with several popular clustering algorithms and compare them against each other across several simulated 2-dimensional data patterns. Finally, I'll compare these clustering algorithms in a real dataset with pre-defined classifications through the Iris Dataset.
