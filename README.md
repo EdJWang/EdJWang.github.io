@@ -12,5 +12,5 @@ Lichess is a digital chess platform where players can compete with other chess p
 View kernel: [nbviewer](https://nbviewer.jupyter.org/github/EdJWang/EdJWang.github.io/blob/Web_Base/Projects/Cluster_Comparison.ipynb) <br>
 In this analysis, I experiment with several popular clustering algorithms and compare them against each other across several simulated 2-dimensional data patterns. Finally, I'll compare these clustering algorithms in a real dataset with pre-defined classifications through the Iris Dataset.
 ### Performing Sentiment Analysis on Airline Reviews
-View kerel: <br>
+View kernel: <br>
 Sentiment analysis is a natural language processing (NLP) technique to assess the tone of voice in textual data. In this kernel, we perform 2 NLP algorithms to predict the sentiment (positive, negative or neutral) of tweets about various airlines. The original data source comes from [Appen](https://appen.com/resources/datasets/). However, this analysis uses the Excel version of the dataset made available on Kaggle at [this link](https://www.kaggle.com/crowdflower/twitter-airline-sentiment).
